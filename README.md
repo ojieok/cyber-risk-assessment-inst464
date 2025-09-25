@@ -1,5 +1,4 @@
-# cyber-risk-assessment-inst464
-Cybersecurity Risk Assessment of Qwant
+# Cybersecurity Risk Assessment of Qwant
 
 Ojie Okodogbe
 University of Maryland, College Park
